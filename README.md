@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Kevin Roger
+# 👋 Hey there! I'm Kevin
 
 💻 **ITSM Support Analyst** focused on automations, integrations, and efficient solutions in **Freshservice** and internal systems.  
 🎓 Currently studying **Electrical Engineering** at Universidade Cruzeiro do Sul.  
