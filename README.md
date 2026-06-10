@@ -34,13 +34,6 @@
 
 ---
 
-## 🎮 A Bit of Fun
-> In my free time, I enjoy playing **CS2** and exploring automation ideas inspired by games.  
->  
-> ![CS2 gif](https://media.tenor.com/xXjD8k5A_3sAAAAC/counter-strike-csgo.gif)
-
----
-
 ## 📫 Let's Connect!
 📩 **Email:** kevinroger@029@gmail.com  
 🌐 **LinkedIn:** [linkedin.com/in/kevinnroger](https://linkedin.com/in/kevinnroger)  
