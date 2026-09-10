@@ -1,17 +1,18 @@
 # 👋 Hey there! I'm Kevin
 
-💻 **ITSM Support Analyst** focused on automations, integrations, and efficient solutions in **Freshservice** and internal systems.  
-🎓 Currently studying **Electrical Engineering** at Universidade Cruzeiro do Sul.  
-🚀 Passionate about **technology**, **hardware hacking**, **integrations**, and **projects that connect software and hardware**.  
+💻 **Analista de Produtos e Automação Pleno** | ITSM | ESM | **Freshservice** | **CrewAI** | **ITIL 4 Certified**
+🎓 **Electrical Engineering** graduate (Universidade Cruzeiro do Sul, Láurea Acadêmica) — now pursuing an **MBA in AI Engineering**.
+🚀 Passionate about **technology**, **automation**, **AI agents**, and **hardware hacking** — projects that connect software and hardware.
 
 ---
 
 ## 🧠 What I Do
-- 🔧 Build automations using **Python**, **REST APIs**, **N8N**, and **JavaScript**  
-- 🤖 Develop internal apps for **Freshservice** (both frontend and backend)  
-- 📊 Integrate data and reports using **Excel**, **pandas**, and **spreadsheet automation**  
-- 🧩 Experiment with **hardware hacking projects**, like M5Stick and game integrations  
-- 💡 Always looking for ways to optimize IT processes with creativity and code  
+- 🤖 Leading the rollout of **AI agents (CrewAI)** into IT operations, driving digital-transformation strategy.
+- 🛠️ Administer and evolve the **Freshworks** suite (Freshservice, Freshdesk Omnichannel, Freshchat) — Service Catalog, SLAs, Asset & Change Management (GMUD).
+- 🔧 Build automations using **Python (RPA)**, **REST APIs**, and **Webhooks**.
+- 🔗 Integrate third-party systems — **Zabbix**, **Wazuh**, **Docusign**, and custom APIs.
+- 📊 Automate data and reports with **Excel + pandas**.
+- 🧩 Experiment with **hardware hacking** projects (Arduino, M5Stick, RFID).
 
 ---
 
@@ -20,9 +21,9 @@
 
 | 💻 Development | 🔄 Automation & APIs | 🧰 Other Skills |
 |----------------|----------------------|----------------|
-| Python 🐍 | Freshservice API ⚙️ | ITSM & Tech Support |
-| JavaScript | Excel + Pandas 📊 | Asset Management 💼 |
-| HTML & CSS | n8n / Webhooks 🌐 | Hardware Installation ⚡ |
+| Python 🐍 | Freshservice API ⚙️ | ITIL 4 Certified 📜 |
+| JavaScript | CrewAI / AI Agents 🤖 | Asset & Change Mgmt (GMUD) |
+| HTML & CSS | Webhooks / Zabbix / Wazuh 🌐 | Active Directory / M365 |
 
 ---
 
