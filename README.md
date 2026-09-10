@@ -11,7 +11,6 @@
 - 🛠️ Administer and evolve the **Freshworks** suite (Freshservice, Freshdesk Omnichannel, Freshchat) — Service Catalog, SLAs, Asset & Change Management (GMUD).
 - 🔧 Build automations using **Python (RPA)**, **REST APIs**, and **Webhooks**.
 - 🔗 Integrate third-party systems — **Zabbix**, **Wazuh**, **Docusign**, and custom APIs.
-- 📊 Automate data and reports with **Excel + pandas**.
 - 🧩 Experiment with **hardware hacking** projects (Arduino, M5Stick, RFID).
 
 ---
