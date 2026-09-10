@@ -21,7 +21,7 @@
 | 💻 Development | 🔄 Automation & APIs | 🧰 Other Skills |
 |----------------|----------------------|----------------|
 | Python 🐍 | Freshservice API ⚙️ | ITIL 4 Certified 📜 |
-| JavaScript | CrewAI / AI Agents 🤖 | Asset & Change Mgmt (GMUD) |
+| TypeScript | CrewAI / AI Agents 🤖 | Asset & Change Mgmt (GMUD) |
 | HTML & CSS | Webhooks / Zabbix / Wazuh 🌐 | Active Directory / M365 |
 
 ---
