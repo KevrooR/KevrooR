@@ -27,11 +27,12 @@
 ---
 
 ## 🎯 Projects I'm Working On
-- 🧾 **Freshservice Automation** — bulk ticket creation based on spreadsheet data  
-- 🧾 **Docusign + Freshservice Integration** — simplifying document sending and logging  
-- ⚙️ **HTTP Backend App** — executes any `curl` directly from Freshservice  
-- 📈 **Investment Bot** — collects and analyzes real-time stock data 🇧🇷🇺🇸  
-
+- 🧾 **Freshservice Automation** — bulk ticket creation based on spreadsheet data
+- 🧾 **Docusign + Freshservice Integration** — simplifying document sending and logging
+- ⚙️ **HTTP Backend App** — executes any `curl` directly from Freshservice
+- 🏢 **Sync_CC** — bulk cost-center registration via API from spreadsheet data
+- 📈 **InvestBot AI** — full-stack (React + Node) fundamentalist stock analysis with local LLM (Ollama) 🇧🇷🇺🇸
+- 🔌 **Arduino / Hardware Hacking** — LED control, RFID reader, LCD displays, sensor readouts
 ---
 
 ## 📫 Let's Connect!
