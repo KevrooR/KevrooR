@@ -35,9 +35,8 @@
 ---
 
 ## 📫 Let's Connect!
-📩 **Email:** kevinroger@029@gmail.com  
-🌐 **LinkedIn:** [linkedin.com/in/kevinnroger](https://linkedin.com/in/kevinnroger)  
-
+📩 **Email:** kevinroger029@gmail.com
+🌐 **LinkedIn:** [linkedin.com/in/kevinnroger](https://linkedin.com/in/kevinnroger)
 ---
 
 ⭐ *"Automation is turning repetitive tasks into free time to create."*
